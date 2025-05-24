@@ -117,4 +117,10 @@ That's it! 🎉 Your banking system should now be up and running.
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
 🌟 **If you like this project, give it a star!** 🌟
